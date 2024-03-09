@@ -1,0 +1,8 @@
+﻿  lab1alg.cpp
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,56): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,73): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,90): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,108): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,134): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\lab1alg\lab1alg.cpp(28,156): warning C4838: conversion from 'int' to 'uint16_t' requires a narrowing conversion
+  lab1alg.vcxproj -> C:\Users\Oleksandr\OneDrive\Рабочий стол\lab1alg\x64\Debug\lab1alg.exe
